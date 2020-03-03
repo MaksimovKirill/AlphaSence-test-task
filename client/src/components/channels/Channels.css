@@ -1,0 +1,7 @@
+.channel_item {
+    padding: 5px;
+}
+
+.channel_item__active {
+    background: lightgray;
+}

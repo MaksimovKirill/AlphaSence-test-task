@@ -1,0 +1,17 @@
+{
+  "channels": [{
+    "id": 1,
+    "name": "one",
+    "messages": []
+  },
+  {
+    "id": 2,
+    "name": "two",
+    "messages": []
+  },
+  {
+    "id": 3,
+    "name": "three",
+    "messages": []
+  }]
+}
